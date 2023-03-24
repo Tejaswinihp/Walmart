@@ -10,3 +10,4 @@ public class Main
 	}
 import java.util.Scanner;
 class Input {
+updated
